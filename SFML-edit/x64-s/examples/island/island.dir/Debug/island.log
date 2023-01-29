@@ -1,0 +1,76 @@
+﻿  Building Custom Rule C:/Users/Asus/source/repos/_Stalcry_/SFML-2.5.1-src/examples/island/CMakeLists.txt
+  Island.cpp
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(277,33): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(276,33): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(279,11): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(319,120): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(319,81): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(319,41): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(321,45): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(323,128): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(323,72): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(323,60): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(341,98): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(341,61): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(341,23): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(345,48): warning C4244: =: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(346,48): warning C4244: =: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(347,48): warning C4244: =: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(366,49): warning C4244: =: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(367,49): warning C4244: =: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(368,49): warning C4244: =: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(382,70): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(383,135): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(383,83): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(384,134): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(384,119): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(384,75): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(457,86): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(457,83): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(457,105): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(457,102): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(458,98): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(458,93): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(458,122): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(458,117): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(458,144): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(458,139): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(458,168): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(458,163): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(469,88): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(469,83): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(469,111): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(469,106): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(470,104): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(470,97): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(470,132): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(470,125): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(470,156): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(470,151): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(470,178): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(470,175): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(475,88): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(475,81): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(475,115): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(475,108): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(476,100): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(476,95): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(476,128): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(476,121): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(476,156): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(476,149): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(476,182): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(476,177): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(492,90): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(492,85): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(492,113): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(492,108): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(493,98): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(493,95): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(493,122): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(493,117): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(493,148): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(493,141): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(493,176): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Asus\source\repos\_Stalcry_\SFML-2.5.1-src\examples\island\Island.cpp(493,169): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  island.vcxproj -> C:\Users\Asus\source\repos\_Stalcry_\SFML-edit\x64-s\examples\island\Debug\island-d.exe

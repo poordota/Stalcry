@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asus\source\repos\_Stalcry_\SFML-edit\x64-s\CMakeFiles\37e45a3b4067b7e4d77d705d490aabc8\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CD6CC299-B115-3B6D-9445-532D948C4F51}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\USERS\ASUS\SOURCE\REPOS\_STALCRY_\SFML-EDIT\X64-S\CMAKEFILES\22949B55D8FBCCB65B401A8CFBFB7C30\GENERATE.STAMP.RULE
+setlocal
+D:\programs\cmake-3.23.1-windows-x86_64\bin\cmake.exe -SC:/Users/Asus/source/repos/_Stalcry_/SFML-2.5.1-src -BC:/Users/Asus/source/repos/_Stalcry_/SFML-edit/x64-s --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Asus/source/repos/_Stalcry_/SFML-edit/x64-s/SFML.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

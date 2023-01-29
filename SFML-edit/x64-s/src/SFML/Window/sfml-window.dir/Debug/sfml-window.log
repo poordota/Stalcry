@@ -1,0 +1,29 @@
+﻿  Building Custom Rule C:/Users/Asus/source/repos/_Stalcry_/SFML-2.5.1-src/src/SFML/Window/CMakeLists.txt
+  Clipboard.cpp
+  Context.cpp
+  Cursor.cpp
+  GlContext.cpp
+  GlResource.cpp
+  Joystick.cpp
+  JoystickManager.cpp
+  Keyboard.cpp
+  Mouse.cpp
+  Touch.cpp
+  Sensor.cpp
+  SensorManager.cpp
+  VideoMode.cpp
+  Window.cpp
+  WindowImpl.cpp
+  CursorImpl.cpp
+  ClipboardImpl.cpp
+  WglContext.cpp
+  WglExtensions.cpp
+  InputImpl.cpp
+  Создание кода...
+  Компиляция...
+  JoystickImpl.cpp
+  SensorImpl.cpp
+  VideoModeImpl.cpp
+  WindowImplWin32.cpp
+  Создание кода...
+  sfml-window.vcxproj -> C:\Users\Asus\source\repos\_Stalcry_\SFML-edit\x64-s\lib\Debug\sfml-window-s-d.lib

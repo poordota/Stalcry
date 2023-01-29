@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Users/Asus/source/repos/_Stalcry_/SFML-2.5.1-src/src/SFML/Window/CMakeLists.txt
+D:/programs/cmake-3.23.1-windows-x86_64/share/cmake-3.23/Modules/FindOpenGL.cmake
+D:/programs/cmake-3.23.1-windows-x86_64/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake
+D:/programs/cmake-3.23.1-windows-x86_64/share/cmake-3.23/Modules/FindPackageMessage.cmake

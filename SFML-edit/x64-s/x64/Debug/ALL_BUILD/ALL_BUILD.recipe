@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Asus\source\repos\_Stalcry_\SFML-edit\x64-s\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Asus\source\repos\_Stalcry_\SFML-edit\x64-s\examples\ftp\Debug\ftp-d.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Asus\source\repos\_Stalcry_\SFML-edit\x64-s\examples\island\Debug\island-d.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Asus\source\repos\_Stalcry_\SFML-edit\x64-s\examples\joystick\Debug\joystick-d.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Asus\source\repos\_Stalcry_\SFML-edit\x64-s\examples\opengl\Debug\opengl-d.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Asus\source\repos\_Stalcry_\SFML-edit\x64-s\examples\pong\Debug\pong-d.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Asus\source\repos\_Stalcry_\SFML-edit\x64-s\examples\shader\Debug\shader-d.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Asus\source\repos\_Stalcry_\SFML-edit\x64-s\examples\sockets\Debug\sockets-d.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Asus\source\repos\_Stalcry_\SFML-edit\x64-s\examples\sound\Debug\sound-d.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Asus\source\repos\_Stalcry_\SFML-edit\x64-s\examples\sound_capture\Debug\sound-capture-d.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Asus\source\repos\_Stalcry_\SFML-edit\x64-s\examples\voip\Debug\voip-d.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Asus\source\repos\_Stalcry_\SFML-edit\x64-s\examples\win32\Debug\win32-d.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Asus\source\repos\_Stalcry_\SFML-edit\x64-s\examples\window\Debug\window-d.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Asus\source\repos\_Stalcry_\SFML-edit\x64-s\x64\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

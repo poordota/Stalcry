@@ -1,0 +1,44 @@
+﻿  Stalcry.cpp
+D:\2-й курс\STALCRY 1.0\Stalcry\map.h(60,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\2-й курс\STALCRY 1.0\Stalcry\view.h(24,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\2-й курс\STALCRY 1.0\Stalcry\view.h(28,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\2-й курс\STALCRY 1.0\Stalcry\view.h(32,18): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\2-й курс\STALCRY 1.0\Stalcry\view.h(35,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(68,48): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(68,45): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(96,20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(97,24): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(108,37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(116,36): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(208,37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(216,37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(364,61): warning C4244: =: преобразование "sf::Int64" в "float", возможна потеря данных
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(365,78): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(380,53): warning C4305: =: усечение из "double" в "float"
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(381,39): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(387,53): warning C4305: =: усечение из "double" в "float"
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(388,39): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(393,53): warning C4305: =: усечение из "double" в "float"
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(394,39): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(399,53): warning C4305: =: усечение из "double" в "float"
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(400,39): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(442,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(442,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(443,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\2-й курс\STALCRY 1.0\Stalcry\Stalcry.cpp(443,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+D:\2-й курс\STALCRY 1.0\Stalcry\audio.h(40): warning C4715: pressAudio: значение возвращается не при всех путях выполнения
+D:\2-й курс\STALCRY 1.0\Stalcry\audio.h(23): warning C4715: destroyAudio: значение возвращается не при всех путях выполнения
+D:\2-й курс\STALCRY 1.0\Stalcry\audio.h(31): warning C4715: winAudio: значение возвращается не при всех путях выполнения
+  All 641 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Stalcry.vcxproj -> D:\2-й курс\STALCRY 1.0\Stalcry\x64\Release\Stalcry.exe
